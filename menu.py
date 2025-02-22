@@ -15,7 +15,7 @@ def menu():
               2. Ver Carrito de Compra.
               3. Eliiminar Producto del Carrito.
               4. Finalizar compra.
-              5. Ver Recibo.
+              5. Generar Recibo.
               6. Salir.
           """))
     
